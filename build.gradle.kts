@@ -17,6 +17,12 @@ dependencies {
     implementation(kotlin("reflect"))
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
+//    OCR start
+    implementation("net.java.dev.jna:jna:5.2.0")
+    implementation("net.java.dev.jna:jna-platform:5.2.0")
+    implementation("net.sourceforge.tess4j:tess4j:4.3.1'")
+    //compile fileTree(include: ['*.jar'], dir: 'libs') // TODO ?
+//    OCR end
     runtimeOnly("org.springframework.boot:spring-boot-devtools")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
