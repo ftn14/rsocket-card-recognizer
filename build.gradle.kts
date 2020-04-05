@@ -10,18 +10,22 @@ plugins {
 
 repositories {
     mavenCentral()
+    //jcenter()
 }
 
 dependencies {
+    implementation(
+        fileTree("libs")
+            .filter { it.name.matches(Regex("(.*).jar")) }
+    )
     implementation(kotlin("stdlib-jdk8"))
     implementation(kotlin("reflect"))
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 //    OCR start
+    implementation("net.sourceforge.tess4j:tess4j:4.5.1")
     implementation("net.java.dev.jna:jna:5.2.0")
     implementation("net.java.dev.jna:jna-platform:5.2.0")
-    implementation("net.sourceforge.tess4j:tess4j:4.3.1'")
-    //compile fileTree(include: ['*.jar'], dir: 'libs') // TODO ?
 //    OCR end
     runtimeOnly("org.springframework.boot:spring-boot-devtools")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
