@@ -6,5 +6,5 @@ interface RecognitionService {
 
     suspend fun recognizeChips(img: BufferedImage): String
 
-    suspend fun recognizeHand()
+    suspend fun recognizeCard(cardImg: BufferedImage): String
 }

@@ -1,0 +1,2801 @@
+﻿PokerStars Hand #198371364689: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level I (10/20) - 2019/03/21 9:29:22 CUST [2019/03/21 1:29:22 ET]
+Table '2566364429 1' 9-max Seat #1 is the button
+Seat 1: seat1_1989 (1500 in chips) 
+Seat 2: seat2 (1500 in chips) 
+Seat 3: seat3 98 (1500 in chips) 
+Seat 4: seat4+1 (1500 in chips) 
+Seat 5: seat5 (1500 in chips) 
+Seat 6: seat6 (1500 in chips) 
+Seat 7: seat7_me (1500 in chips) 
+Seat 8: seat8 marco (1500 in chips) 
+Seat 9: seat9 (1500 in chips) 
+seat1_1989: posts the ante 3
+seat2: posts the ante 3
+seat3 98: posts the ante 3
+seat4+1: posts the ante 3
+seat5: posts the ante 3
+seat6: posts the ante 3
+seat7_me: posts the ante 3
+seat8 marco: posts the ante 3
+seat9: posts the ante 3
+seat2: posts small blind 10
+seat3 98: posts big blind 20
+*** HOLE CARDS ***
+Dealt to seat7_me [9d 4s]
+seat4+1: calls 20
+seat5: folds 
+seat6: calls 20
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: calls 20
+seat2: folds 
+seat3 98: checks 
+*** FLOP *** [Ah Jh 3c]
+seat3 98: checks 
+seat4+1: checks 
+seat6: checks 
+seat1_1989: checks 
+*** TURN *** [Ah Jh 3c] [Ad]
+seat3 98: checks 
+seat4+1: checks 
+seat6: checks 
+seat1_1989: checks 
+*** RIVER *** [Ah Jh 3c Ad] [2h]
+seat3 98: checks 
+seat4+1: checks 
+seat6: checks 
+seat1_1989: bets 120
+seat3 98: folds 
+seat4+1: folds 
+seat6: folds 
+Uncalled bet (120) returned to seat1_1989
+seat1_1989 collected 117 from pot
+seat1_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot 117 | Rake 0 
+Board [Ah Jh 3c Ad 2h]
+Seat 1: seat1_1989 (button) collected (117)
+Seat 2: seat2 (small blind) folded before Flop
+Seat 3: seat3 98 (big blind) folded on the River
+Seat 4: seat4+1 folded on the River
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 folded on the River
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371380659: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level I (10/20) - 2019/03/21 9:30:47 CUST [2019/03/21 1:30:47 ET]
+Table '2566364429 1' 9-max Seat #2 is the button
+Seat 1: seat1_1989 (1594 in chips) 
+Seat 2: seat2 (1487 in chips) 
+Seat 3: seat3 98 (1477 in chips) 
+Seat 4: seat4+1 (1477 in chips) 
+Seat 5: seat5 (1497 in chips) 
+Seat 6: seat6 (1477 in chips) 
+Seat 7: seat7_me (1497 in chips) 
+Seat 8: seat8 marco (1497 in chips) 
+Seat 9: seat9 (1497 in chips) 
+seat1_1989: posts the ante 3
+seat2: posts the ante 3
+seat3 98: posts the ante 3
+seat4+1: posts the ante 3
+seat5: posts the ante 3
+seat6: posts the ante 3
+seat7_me: posts the ante 3
+seat8 marco: posts the ante 3
+seat9: posts the ante 3
+seat3 98: posts small blind 10
+seat4+1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to seat7_me [Tc 4d]
+seat5: folds 
+seat6: folds 
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: calls 20
+seat2: folds 
+seat3 98: calls 10
+seat4+1: checks 
+*** FLOP *** [8d Qh 5s]
+seat3 98: bets 20
+seat4+1: raises 64 to 84
+seat1_1989: calls 84
+seat3 98: calls 64
+*** TURN *** [8d Qh 5s] [5d]
+seat3 98: checks 
+seat4+1: checks 
+seat1_1989: checks 
+*** RIVER *** [8d Qh 5s 5d] [4c]
+seat3 98: bets 170
+seat4+1: calls 170
+seat1_1989: folds 
+*** SHOW DOWN ***
+seat3 98: shows [7d 8h] (two pair, Eights and Fives)
+seat4+1: shows [Qs 4s] (two pair, Queens and Fives)
+seat4+1 collected 679 from pot
+*** SUMMARY ***
+Total pot 679 | Rake 0 
+Board [8d Qh 5s 5d 4c]
+Seat 1: seat1_1989 folded on the River
+Seat 2: seat2 (button) folded before Flop (didn't bet)
+Seat 3: seat3 98 (small blind) showed [7d 8h] and lost with two pair, Eights and Fives
+Seat 4: seat4+1 (big blind) showed [Qs 4s] and won (679) with two pair, Queens and Fives
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 folded before Flop (didn't bet)
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371394469: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level I (10/20) - 2019/03/21 9:32:01 CUST [2019/03/21 1:32:01 ET]
+Table '2566364429 1' 9-max Seat #3 is the button
+Seat 1: seat1_1989 (1487 in chips) 
+Seat 2: seat2 (1484 in chips) 
+Seat 3: seat3 98 (1200 in chips) 
+Seat 4: seat4+1 (1879 in chips) 
+Seat 5: seat5 (1494 in chips) 
+Seat 6: seat6 (1474 in chips) 
+Seat 7: seat7_me (1494 in chips) 
+Seat 8: seat8 marco (1494 in chips) 
+Seat 9: seat9 (1494 in chips) 
+seat1_1989: posts the ante 3
+seat2: posts the ante 3
+seat3 98: posts the ante 3
+seat4+1: posts the ante 3
+seat5: posts the ante 3
+seat6: posts the ante 3
+seat7_me: posts the ante 3
+seat8 marco: posts the ante 3
+seat9: posts the ante 3
+seat4+1: posts small blind 10
+seat5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to seat7_me [8c Ks]
+seat6: calls 20
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: calls 20
+seat2: folds 
+seat3 98: raises 140 to 160
+seat4+1: calls 150
+seat5: folds 
+seat6: calls 140
+seat1_1989: calls 140
+*** FLOP *** [Tc 2s 6d]
+seat4+1: checks 
+seat6: checks 
+seat1_1989: checks 
+seat3 98: bets 1037 and is all-in
+seat4+1: folds 
+seat6: folds 
+seat1_1989: folds 
+Uncalled bet (1037) returned to seat3 98
+seat3 98 collected 687 from pot
+seat3 98: doesn't show hand 
+*** SUMMARY ***
+Total pot 687 | Rake 0 
+Board [Tc 2s 6d]
+Seat 1: seat1_1989 folded on the Flop
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 (button) collected (687)
+Seat 4: seat4+1 (small blind) folded on the Flop
+Seat 5: seat5 (big blind) folded before Flop
+Seat 6: seat6 folded on the Flop
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371405914: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level I (10/20) - 2019/03/21 9:33:03 CUST [2019/03/21 1:33:03 ET]
+Table '2566364429 1' 9-max Seat #4 is the button
+Seat 1: seat1_1989 (1324 in chips) 
+Seat 2: seat2 (1481 in chips) 
+Seat 3: seat3 98 (1724 in chips) 
+Seat 4: seat4+1 (1716 in chips) 
+Seat 5: seat5 (1471 in chips) 
+Seat 6: seat6 (1311 in chips) 
+Seat 7: seat7_me (1491 in chips) 
+Seat 8: seat8 marco (1491 in chips) 
+Seat 9: seat9 (1491 in chips) 
+seat1_1989: posts the ante 3
+seat2: posts the ante 3
+seat3 98: posts the ante 3
+seat4+1: posts the ante 3
+seat5: posts the ante 3
+seat6: posts the ante 3
+seat7_me: posts the ante 3
+seat8 marco: posts the ante 3
+seat9: posts the ante 3
+seat5: posts small blind 10
+seat6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to seat7_me [Qc 4d]
+seat7_me: folds 
+seat8 marco: folds 
+seat9: raises 20 to 40
+seat1_1989: folds 
+seat2: folds 
+seat3 98: calls 40
+seat4+1: folds 
+seat5: calls 30
+seat6: calls 20
+*** FLOP *** [3s Kc 6d]
+seat5: checks 
+seat6: checks 
+seat9: checks 
+seat3 98: checks 
+*** TURN *** [3s Kc 6d] [7s]
+seat5: bets 40
+seat6: calls 40
+seat9: calls 40
+seat3 98: calls 40
+*** RIVER *** [3s Kc 6d 7s] [5s]
+seat5: bets 140
+seat6: calls 140
+seat9: folds 
+seat3 98: folds 
+*** SHOW DOWN ***
+seat5: shows [4s 8s] (a flush, Eight high)
+seat6: mucks hand 
+seat5 collected 627 from pot
+*** SUMMARY ***
+Total pot 627 | Rake 0 
+Board [3s Kc 6d 7s 5s]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 folded on the River
+Seat 4: seat4+1 (button) folded before Flop (didn't bet)
+Seat 5: seat5 (small blind) showed [4s 8s] and won (627) with a flush, Eight high
+Seat 6: seat6 (big blind) mucked [4h 6h]
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded on the River
+
+
+
+PokerStars Hand #198371421158: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level II (15/30) - 2019/03/21 9:34:27 CUST [2019/03/21 1:34:27 ET]
+Table '2566364429 1' 9-max Seat #5 is the button
+Seat 1: seat1_1989 (1321 in chips) 
+Seat 2: seat2 (1478 in chips) 
+Seat 3: seat3 98 (1641 in chips) 
+Seat 4: seat4+1 (1713 in chips) 
+Seat 5: seat5 (1875 in chips) 
+Seat 6: seat6 (1088 in chips) 
+Seat 7: seat7_me (1488 in chips) 
+Seat 8: seat8 marco (1488 in chips) 
+Seat 9: seat9 (1408 in chips) 
+seat1_1989: posts the ante 4
+seat2: posts the ante 4
+seat3 98: posts the ante 4
+seat4+1: posts the ante 4
+seat5: posts the ante 4
+seat6: posts the ante 4
+seat7_me: posts the ante 4
+seat8 marco: posts the ante 4
+seat9: posts the ante 4
+seat6: posts small blind 15
+seat7_me: posts big blind 30
+*** HOLE CARDS ***
+Dealt to seat7_me [9h 4d]
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: folds 
+seat2: raises 60 to 90
+seat3 98: raises 1547 to 1637 and is all-in
+seat4+1: folds 
+seat5: folds 
+seat6: folds 
+seat7_me: folds 
+seat2: folds 
+Uncalled bet (1547) returned to seat3 98
+seat3 98 collected 261 from pot
+seat3 98: doesn't show hand 
+*** SUMMARY ***
+Total pot 261 | Rake 0 
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 folded before Flop
+Seat 3: seat3 98 collected (261)
+Seat 4: seat4+1 folded before Flop (didn't bet)
+Seat 5: seat5 (button) folded before Flop (didn't bet)
+Seat 6: seat6 (small blind) folded before Flop
+Seat 7: seat7_me (big blind) folded before Flop
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371427069: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level II (15/30) - 2019/03/21 9:34:59 CUST [2019/03/21 1:34:59 ET]
+Table '2566364429 1' 9-max Seat #6 is the button
+Seat 1: seat1_1989 (1317 in chips) 
+Seat 2: seat2 (1384 in chips) 
+Seat 3: seat3 98 (1808 in chips) 
+Seat 4: seat4+1 (1709 in chips) 
+Seat 5: seat5 (1871 in chips) 
+Seat 6: seat6 (1069 in chips) 
+Seat 7: seat7_me (1454 in chips) 
+Seat 8: seat8 marco (1484 in chips) 
+Seat 9: seat9 (1404 in chips) 
+seat1_1989: posts the ante 4
+seat2: posts the ante 4
+seat3 98: posts the ante 4
+seat4+1: posts the ante 4
+seat5: posts the ante 4
+seat6: posts the ante 4
+seat7_me: posts the ante 4
+seat8 marco: posts the ante 4
+seat9: posts the ante 4
+seat7_me: posts small blind 15
+seat8 marco: posts big blind 30
+*** HOLE CARDS ***
+Dealt to seat7_me [As Qc]
+seat9: raises 30 to 60
+seat1_1989: calls 60
+seat2: folds 
+seat3 98: calls 60
+seat4+1: folds 
+seat5: folds 
+seat6: calls 60
+seat7_me: calls 45
+seat8 marco: calls 30
+*** FLOP *** [4h 9c Qd]
+seat7_me: checks 
+seat8 marco: checks 
+seat9: checks 
+seat1_1989: checks 
+seat3 98: bets 180
+seat6: folds 
+seat7_me: calls 180
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: folds 
+*** TURN *** [4h 9c Qd] [6s]
+seat7_me: checks 
+seat3 98: bets 378
+seat7_me: calls 378
+*** RIVER *** [4h 9c Qd 6s] [Jd]
+seat7_me: bets 832 and is all-in
+seat3 98: folds 
+Uncalled bet (832) returned to seat7_me
+seat7_me collected 1512 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 1512 | Rake 0 
+Board [4h 9c Qd 6s Jd]
+Seat 1: seat1_1989 folded on the Flop
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 folded on the River
+Seat 4: seat4+1 folded before Flop (didn't bet)
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 (button) folded on the Flop
+Seat 7: seat7_me (small blind) collected (1512)
+Seat 8: seat8 marco (big blind) folded on the Flop
+Seat 9: seat9 folded on the Flop
+
+
+
+PokerStars Hand #198371447324: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level II (15/30) - 2019/03/21 9:36:48 CUST [2019/03/21 1:36:48 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 1: seat1_1989 (1253 in chips) 
+Seat 2: seat2 (1380 in chips) 
+Seat 3: seat3 98 (1186 in chips) 
+Seat 4: seat4+1 (1705 in chips) 
+Seat 5: seat5 (1867 in chips) 
+Seat 6: seat6 (1005 in chips) 
+Seat 7: seat7_me (2344 in chips) 
+Seat 8: seat8 marco (1420 in chips) 
+Seat 9: seat9 (1340 in chips) 
+seat1_1989: posts the ante 4
+seat2: posts the ante 4
+seat3 98: posts the ante 4
+seat4+1: posts the ante 4
+seat5: posts the ante 4
+seat6: posts the ante 4
+seat7_me: posts the ante 4
+seat8 marco: posts the ante 4
+seat9: posts the ante 4
+seat8 marco: posts small blind 15
+seat9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to seat7_me [Kc Qc]
+seat1_1989: folds 
+seat2: folds 
+seat3 98: folds 
+seat4+1: calls 30
+seat5: folds 
+seat6: calls 30
+seat7_me: raises 90 to 120
+seat8 marco: folds 
+seat9: folds 
+seat4+1: calls 90
+seat6: calls 90
+*** FLOP *** [8c 9d 3h]
+seat4+1: checks 
+seat6: bets 441
+seat7_me: folds 
+seat4+1: folds 
+Uncalled bet (441) returned to seat6
+seat6 collected 441 from pot
+seat6: doesn't show hand 
+*** SUMMARY ***
+Total pot 441 | Rake 0 
+Board [8c 9d 3h]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 folded before Flop (didn't bet)
+Seat 4: seat4+1 folded on the Flop
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 collected (441)
+Seat 7: seat7_me (button) folded on the Flop
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371456430: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level II (15/30) - 2019/03/21 9:37:37 CUST [2019/03/21 1:37:37 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 1: seat1_1989 (1249 in chips) 
+Seat 2: seat2 (1376 in chips) 
+Seat 3: seat3 98 (1182 in chips) 
+Seat 4: seat4+1 (1581 in chips) 
+Seat 5: seat5 (1863 in chips) 
+Seat 6: seat6 (1322 in chips) 
+Seat 7: seat7_me (2220 in chips) 
+Seat 8: seat8 marco (1401 in chips) 
+Seat 9: seat9 (1306 in chips) 
+seat1_1989: posts the ante 4
+seat2: posts the ante 4
+seat3 98: posts the ante 4
+seat4+1: posts the ante 4
+seat5: posts the ante 4
+seat6: posts the ante 4
+seat7_me: posts the ante 4
+seat8 marco: posts the ante 4
+seat9: posts the ante 4
+seat9: posts small blind 15
+seat1_1989: posts big blind 30
+*** HOLE CARDS ***
+Dealt to seat7_me [Qc Th]
+seat2: folds 
+seat3 98: folds 
+seat4+1: raises 30 to 60
+seat5: calls 60
+seat6: calls 60
+seat2 is disconnected 
+seat7_me: folds 
+seat8 marco: raises 1337 to 1397 and is all-in
+seat9: folds 
+seat1_1989: folds 
+seat4+1: calls 1337
+seat5: folds 
+seat6: folds 
+*** FLOP *** [4s 8d 4h]
+*** TURN *** [4s 8d 4h] [Qh]
+*** RIVER *** [4s 8d 4h Qh] [Td]
+*** SHOW DOWN ***
+seat4+1: shows [Js Ah] (a pair of Fours)
+seat8 marco: shows [As Qs] (two pair, Queens and Fours)
+seat8 marco collected 2995 from pot
+*** SUMMARY ***
+Total pot 2995 | Rake 0 
+Board [4s 8d 4h Qh Td]
+Seat 1: seat1_1989 (big blind) folded before Flop
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 folded before Flop (didn't bet)
+Seat 4: seat4+1 showed [Js Ah] and lost with a pair of Fours
+Seat 5: seat5 folded before Flop
+Seat 6: seat6 folded before Flop
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco (button) showed [As Qs] and won (2995) with two pair, Queens and Fours
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371467115: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level II (15/30) - 2019/03/21 9:38:34 CUST [2019/03/21 1:38:34 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 1: seat1_1989 (1215 in chips) 
+Seat 2: seat2 (1372 in chips) 
+Seat 3: seat3 98 (1178 in chips) 
+Seat 4: seat4+1 (180 in chips) 
+Seat 5: seat5 (1799 in chips) 
+Seat 6: seat6 (1258 in chips) 
+Seat 7: seat7_me (2216 in chips) 
+Seat 8: seat8 marco (2995 in chips) 
+Seat 9: seat9 (1287 in chips) 
+seat1_1989: posts the ante 4
+seat2: posts the ante 4
+seat3 98: posts the ante 4
+seat4+1: posts the ante 4
+seat5: posts the ante 4
+seat6: posts the ante 4
+seat7_me: posts the ante 4
+seat8 marco: posts the ante 4
+seat9: posts the ante 4
+seat1_1989: posts small blind 15
+seat2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to seat7_me [Jh 9c]
+seat2 is disconnected 
+seat3 98: calls 30
+seat4+1: folds 
+seat5: raises 30 to 60
+seat6: calls 60
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: raises 276 to 336
+seat2 is disconnected 
+seat2 has timed out while disconnected
+seat2: folds 
+seat2 is sitting out
+seat3 98: folds 
+seat5: calls 276
+seat6: folds 
+*** FLOP *** [7s 8d 3s]
+seat1_1989: bets 875 and is all-in
+seat5: folds 
+Uncalled bet (875) returned to seat1_1989
+seat1_1989 collected 828 from pot
+seat1_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot 828 | Rake 0 
+Board [7s 8d 3s]
+Seat 1: seat1_1989 (small blind) collected (828)
+Seat 2: seat2 (big blind) folded before Flop
+Seat 3: seat3 98 folded before Flop
+Seat 4: seat4+1 folded before Flop (didn't bet)
+Seat 5: seat5 folded on the Flop
+Seat 6: seat6 folded before Flop
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371479521: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level III (25/50) - 2019/03/21 9:39:41 CUST [2019/03/21 1:39:41 ET]
+Table '2566364429 1' 9-max Seat #1 is the button
+Seat 1: seat1_1989 (1703 in chips) 
+Seat 2: seat2 (1338 in chips) is sitting out
+Seat 3: seat3 98 (1144 in chips) 
+Seat 4: seat4+1 (176 in chips) 
+Seat 5: seat5 (1459 in chips) 
+Seat 6: seat6 (1194 in chips) 
+Seat 7: seat7_me (2212 in chips) 
+Seat 8: seat8 marco (2991 in chips) 
+Seat 9: seat9 (1283 in chips) 
+seat1_1989: posts the ante 6
+seat2: posts the ante 6
+seat3 98: posts the ante 6
+seat4+1: posts the ante 6
+seat5: posts the ante 6
+seat6: posts the ante 6
+seat7_me: posts the ante 6
+seat8 marco: posts the ante 6
+seat9: posts the ante 6
+seat2: posts small blind 25
+seat3 98: posts big blind 50
+*** HOLE CARDS ***
+Dealt to seat7_me [Tc Qd]
+seat4+1: raises 120 to 170 and is all-in
+seat5: calls 170
+seat6: folds 
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: folds 
+seat2: folds 
+seat3 98: folds 
+*** FLOP *** [9d 6s Kh]
+*** TURN *** [9d 6s Kh] [7d]
+*** RIVER *** [9d 6s Kh 7d] [8c]
+*** SHOW DOWN ***
+seat4+1: shows [As Qc] (high card Ace)
+seat5: shows [Kd 8h] (two pair, Kings and Eights)
+seat5 collected 469 from pot
+seat5 wins the $0.67 bounty for eliminating seat4+1
+seat4+1 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 469 | Rake 0 
+Board [9d 6s Kh 7d 8c]
+Seat 1: seat1_1989 (button) folded before Flop (didn't bet)
+Seat 2: seat2 (small blind) folded before Flop
+Seat 3: seat3 98 (big blind) folded before Flop
+Seat 4: seat4+1 showed [As Qc] and lost with high card Ace
+Seat 5: seat5 showed [Kd 8h] and won (469) with two pair, Kings and Eights
+Seat 6: seat6 folded before Flop (didn't bet)
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371488922: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level III (25/50) - 2019/03/21 9:40:32 CUST [2019/03/21 1:40:32 ET]
+Table '2566364429 1' 9-max Seat #2 1 the button
+Seat 1: seat1_1989 (1697 in chips) 
+Seat 2: seat2 (1307 in chips) is sitting out
+Seat 3: seat3 98 (1088 in chips) 
+Seat 5: seat5 (1752 in chips) 
+Seat 6: seat6 (1188 in chips) 
+Seat 7: seat7_me (2206 in chips) 
+Seat 8: seat8 marco (2985 in chips) 
+Seat 9: seat9 (1277 in chips) 
+seat1_1989: posts the ante 6
+seat2: posts the ante 6
+seat3 98: posts the ante 6
+seat5: posts the ante 6
+seat6: posts the ante 6
+seat7_me: posts the ante 6
+seat8 marco: posts the ante 6
+seat9: posts the ante 6
+seat3 98: posts small blind 25
+seat5: posts big blind 50
+*** HOLE CARDS ***
+Dealt to seat7_me [Qc Kd]
+seat2 is disconnected 
+seat2 has returned
+seat6: calls 50
+seat7_me: raises 75 to 125
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: folds 
+seat2: folds 
+seat3 98: calls 100
+seat5: calls 75
+seat6: calls 75
+*** FLOP *** [Td 6s 3d]
+seat3 98: checks 
+seat5: checks 
+seat6: checks 
+seat7_me: checks 
+*** TURN *** [Td 6s 3d] [9s]
+seat3 98: bets 50
+seat5: calls 50
+seat6: raises 698 to 748
+seat7_me: folds 
+seat3 98: folds 
+seat5: folds 
+Uncalled bet (698) returned to seat6
+seat6 collected 698 from pot
+seat6: doesn't show hand 
+*** SUMMARY ***
+Total pot 698 | Rake 0 
+Board [Td 6s 3d 9s]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 (button) folded before Flop (didn't bet)
+Seat 3: seat3 98 (small blind) folded on the Turn
+Seat 5: seat5 (big blind) folded on the Turn
+Seat 6: seat6 collected (698)
+Seat 7: seat7_me folded on the Turn
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371502821: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level III (25/50) - 2019/03/21 9:41:47 CUST [2019/03/21 1:41:47 ET]
+Table '2566364429 1' 9-max Seat #3 is the button
+Seat 1: seat1_1989 (1691 in chips) 
+Seat 2: seat2 (1301 in chips) 
+Seat 3: seat3 98 (907 in chips) 
+Seat 5: seat5 (1571 in chips) 
+Seat 6: seat6 (1705 in chips) 
+Seat 7: seat7_me (2075 in chips) 
+Seat 8: seat8 marco (2979 in chips) 
+Seat 9: seat9 (1271 in chips) 
+seat1_1989: posts the ante 6
+seat2: posts the ante 6
+seat3 98: posts the ante 6
+seat5: posts the ante 6
+seat6: posts the ante 6
+seat7_me: posts the ante 6
+seat8 marco: posts the ante 6
+seat9: posts the ante 6
+seat5: posts small blind 25
+seat6: posts big blind 50
+*** HOLE CARDS ***
+Dealt to seat7_me [4d Qs]
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: folds 
+seat2: raises 100 to 150
+seat3 98: folds 
+seat5: calls 125
+seat6: calls 100
+*** FLOP *** [5h Ad Tc]
+seat5: checks 
+seat6: checks 
+seat2: bets 189
+seat5: folds 
+seat6: folds 
+Uncalled bet (189) returned to seat2
+seat2 collected 498 from pot
+seat2: doesn't show hand 
+*** SUMMARY ***
+Total pot 498 | Rake 0 
+Board [5h Ad Tc]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 collected (498)
+Seat 3: seat3 98 (button) folded before Flop (didn't bet)
+Seat 5: seat5 (small blind) folded on the Flop
+Seat 6: seat6 (big blind) folded on the Flop
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371511688: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level III (25/50) - 2019/03/21 9:42:34 CUST [2019/03/21 1:42:34 ET]
+Table '2566364429 1' 9-max Seat #5 is the button
+Seat 1: seat1_1989 (1685 in chips) 
+Seat 2: seat2 (1643 in chips) 
+Seat 3: seat3 98 (901 in chips) 
+Seat 5: seat5 (1415 in chips) 
+Seat 6: seat6 (1549 in chips) 
+Seat 7: seat7_me (2069 in chips) 
+Seat 8: seat8 marco (2973 in chips) 
+Seat 9: seat9 (1265 in chips) 
+seat1_1989: posts the ante 6
+seat2: posts the ante 6
+seat3 98: posts the ante 6
+seat5: posts the ante 6
+seat6: posts the ante 6
+seat7_me: posts the ante 6
+seat8 marco: posts the ante 6
+seat9: posts the ante 6
+seat6: posts small blind 25
+seat7_me: posts big blind 50
+*** HOLE CARDS ***
+Dealt to seat7_me [4c Qc]
+seat8 marco: raises 250 to 300
+seat9: raises 959 to 1259 and is all-in
+seat1_1989: folds 
+seat2: folds 
+seat3 98: folds 
+seat5: folds 
+seat6: folds 
+seat7_me: folds 
+seat8 marco: calls 959
+*** FLOP *** [8d 2d Jc]
+*** TURN *** [8d 2d Jc] [Ac]
+*** RIVER *** [8d 2d Jc Ac] [5s]
+*** SHOW DOWN ***
+seat8 marco: shows [Th Ts] (a pair of Tens)
+seat9: shows [Ah Jh] (two pair, Aces and Jacks)
+seat9 collected 2641 from pot
+*** SUMMARY ***
+Total pot 2641 | Rake 0 
+Board [8d 2d Jc Ac 5s]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 folded before Flop (didn't bet)
+Seat 5: seat5 (button) folded before Flop (didn't bet)
+Seat 6: seat6 (small blind) folded before Flop
+Seat 7: seat7_me (big blind) folded before Flop
+Seat 8: seat8 marco showed [Th Ts] and lost with a pair of Tens
+Seat 9: seat9 showed [Ah Jh] and won (2641) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #198371520919: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level III (25/50) - 2019/03/21 9:43:23 CUST [2019/03/21 1:43:23 ET]
+Table '2566364429 1' 9-max Seat #6 is the button
+Seat 1: seat1_1989 (1679 in chips) 
+Seat 2: seat2 (1637 in chips) 
+Seat 3: seat3 98 (895 in chips) 
+Seat 5: seat5 (1409 in chips) 
+Seat 6: seat6 (1518 in chips) 
+Seat 7: seat7_me (2013 in chips) 
+Seat 8: seat8 marco (1708 in chips) 
+Seat 9: seat9 (2641 in chips) 
+seat1_1989: posts the ante 6
+seat2: posts the ante 6
+seat3 98: posts the ante 6
+seat5: posts the ante 6
+seat6: posts the ante 6
+seat7_me: posts the ante 6
+seat8 marco: posts the ante 6
+seat9: posts the ante 6
+seat7_me: posts small blind 25
+seat8 marco: posts big blind 50
+*** HOLE CARDS ***
+Dealt to seat7_me [7s Qh]
+seat9: folds 
+seat1_1989: folds 
+seat2: raises 100 to 150
+seat3 98: folds 
+seat5: folds 
+seat6: calls 150
+seat7_me: folds 
+seat8 marco: calls 100
+*** FLOP *** [8c 4h 5s]
+seat8 marco: checks 
+seat2: checks 
+seat6: checks 
+*** TURN *** [8c 4h 5s] [Ks]
+seat8 marco: checks 
+seat2: bets 199
+seat6: folds 
+seat8 marco: folds 
+Uncalled bet (199) returned to seat2
+seat2 collected 523 from pot
+seat2: doesn't show hand 
+*** SUMMARY ***
+Total pot 523 | Rake 0 
+Board [8c 4h 5s Ks]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 collected (523)
+Seat 3: seat3 98 folded before Flop (didn't bet)
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 (button) folded on the Turn
+Seat 7: seat7_me (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) folded on the Turn
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371530240: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level III (25/50) - 2019/03/21 9:44:13 CUST [2019/03/21 1:44:13 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 1: seat1_1989 (1673 in chips) 
+Seat 2: seat2 (2004 in chips) 
+Seat 3: seat3 98 (889 in chips) 
+Seat 5: seat5 (1403 in chips) 
+Seat 6: seat6 (1362 in chips) 
+Seat 7: seat7_me (1982 in chips) 
+Seat 8: seat8 marco (1552 in chips) 
+Seat 9: seat9 (2635 in chips) 
+seat1_1989: posts the ante 6
+seat2: posts the ante 6
+seat3 98: posts the ante 6
+seat5: posts the ante 6
+seat6: posts the ante 6
+seat7_me: posts the ante 6
+seat8 marco: posts the ante 6
+seat9: posts the ante 6
+seat8 marco: posts small blind 25
+seat9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to seat7_me [7d 2s]
+seat1_1989: raises 223 to 273
+seat2 is disconnected 
+seat2 has timed out while disconnected
+seat2: folds 
+seat2 is sitting out
+seat3 98: folds 
+seat5: folds 
+seat6: folds 
+seat7_me: folds 
+seat8 marco: folds 
+seat2 is disconnected 
+seat9: folds 
+Uncalled bet (223) returned to seat1_1989
+seat2 has returned
+seat1_1989 collected 173 from pot
+seat1_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: seat1_1989 collected (173)
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 folded before Flop (didn't bet)
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 folded before Flop (didn't bet)
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371538545: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IV (40/80) - 2019/03/21 9:44:57 CUST [2019/03/21 1:44:57 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 1: seat1_1989 (1790 in chips) 
+Seat 2: seat2 (1998 in chips) 
+Seat 3: seat3 98 (883 in chips) 
+Seat 5: seat5 (1397 in chips) 
+Seat 6: seat6 (1356 in chips) 
+Seat 7: seat7_me (1976 in chips) 
+Seat 8: seat8 marco (1521 in chips) 
+Seat 9: seat9 (2579 in chips) 
+seat1_1989: posts the ante 10
+seat2: posts the ante 10
+seat3 98: posts the ante 10
+seat5: posts the ante 10
+seat6: posts the ante 10
+seat7_me: posts the ante 10
+seat8 marco: posts the ante 10
+seat9: posts the ante 10
+seat9: posts small blind 40
+seat1_1989: posts big blind 80
+*** HOLE CARDS ***
+Dealt to seat7_me [7c 3s]
+seat2: folds 
+seat3 98: calls 80
+seat5: calls 80
+seat6: folds 
+seat7_me: folds 
+seat8 marco: calls 80
+seat9: folds 
+seat1_1989: checks 
+*** FLOP *** [9s Ks Ts]
+seat1_1989: checks 
+seat3 98: bets 80
+seat5: folds 
+seat8 marco: folds 
+seat2 is disconnected 
+seat2 is disconnected 
+seat1_1989: raises 80 to 160
+seat3 98: calls 80
+*** TURN *** [9s Ks Ts] [Qd]
+seat1_1989: bets 240
+seat3 98: raises 393 to 633 and is all-in
+seat1_1989: calls 393
+*** RIVER *** [9s Ks Ts Qd] [Qh]
+*** SHOW DOWN ***
+seat1_1989: shows [5s 6s] (a flush, King high)
+seat3 98: shows [7h 8h] (a pair of Queens)
+seat1_1989 collected 2026 from pot
+seat1_1989 wins the $0.67 bounty for eliminating seat3 98
+seat3 98 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2026 | Rake 0 
+Board [9s Ks Ts Qd Qh]
+Seat 1: seat1_1989 (big blind) showed [5s 6s] and won (2026) with a flush, King high
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 3: seat3 98 showed [7h 8h] and lost with a pair of Queens
+Seat 5: seat5 folded on the Flop
+Seat 6: seat6 folded before Flop (didn't bet)
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco (button) folded on the Flop
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371552811: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IV (40/80) - 2019/03/21 9:46:14 CUST [2019/03/21 1:46:14 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 1: seat1_1989 (2933 in chips) 
+Seat 2: seat2 (1988 in chips) 
+Seat 5: seat5 (1307 in chips) 
+Seat 6: seat6 (1346 in chips) 
+Seat 7: seat7_me (1966 in chips) 
+Seat 8: seat8 marco (1431 in chips) 
+Seat 9: seat9 (2529 in chips) 
+seat1_1989: posts the ante 10
+seat2: posts the ante 10
+seat5: posts the ante 10
+seat6: posts the ante 10
+seat7_me: posts the ante 10
+seat8 marco: posts the ante 10
+seat9: posts the ante 10
+seat1_1989: posts small blind 40
+seat2: posts big blind 80
+*** HOLE CARDS ***
+Dealt to seat7_me [Jc 6h]
+seat5: folds 
+seat6: raises 560 to 640
+seat7_me: folds 
+seat8 marco: raises 781 to 1421 and is all-in
+seat9: folds 
+seat1_1989: folds 
+seat2: folds 
+seat6: calls 696 and is all-in
+Uncalled bet (85) returned to seat8 marco
+*** FLOP *** [5d 4d 7h]
+*** TURN *** [5d 4d 7h] [Kc]
+*** RIVER *** [5d 4d 7h Kc] [4h]
+*** SHOW DOWN ***
+seat6: shows [Qc Qd] (two pair, Queens and Fours)
+seat8 marco: shows [7d 7c] (a full house, Sevens full of Fours)
+seat8 marco collected 2862 from pot
+seat8 marco wins the $0.67 bounty for eliminating seat6
+seat6 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2862 | Rake 0 
+Board [5d 4d 7h Kc 4h]
+Seat 1: seat1_1989 (small blind) folded before Flop
+Seat 2: seat2 (big blind) folded before Flop
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 showed [Qc Qd] and lost with two pair, Queens and Fours
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco showed [7d 7c] and won (2862) with a full house, Sevens full of Fours
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371559757: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IV (40/80) - 2019/03/21 9:46:51 CUST [2019/03/21 1:46:51 ET]
+Table '2566364429 1' 9-max Seat #1 is the button
+Seat 1: seat1_1989 (2883 in chips) 
+Seat 2: seat2 (1898 in chips) 
+Seat 5: seat5 (1297 in chips) 
+Seat 7: seat7_me (1956 in chips) 
+Seat 8: seat8 marco (2947 in chips) 
+Seat 9: seat9 (2519 in chips) 
+seat1_1989: posts the ante 10
+seat2: posts the ante 10
+seat5: posts the ante 10
+seat7_me: posts the ante 10
+seat8 marco: posts the ante 10
+seat9: posts the ante 10
+seat2: posts small blind 40
+seat5: posts big blind 80
+*** HOLE CARDS ***
+Dealt to seat7_me [5s 2c]
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: folds 
+seat2: folds 
+Uncalled bet (40) returned to seat5
+seat5 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: seat1_1989 (button) folded before Flop (didn't bet)
+Seat 2: seat2 (small blind) folded before Flop
+Seat 5: seat5 (big blind) collected (140)
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371565350: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IV (40/80) - 2019/03/21 9:47:21 CUST [2019/03/21 1:47:21 ET]
+Table '2566364429 1' 9-max Seat #2 is the button
+Seat 1: seat1_1989 (2873 in chips) 
+Seat 2: seat2 (1848 in chips) 
+Seat 5: seat5 (1387 in chips) 
+Seat 7: seat7_me (1946 in chips) 
+Seat 8: seat8 marco (2937 in chips) 
+Seat 9: seat9 (2509 in chips) 
+seat1_1989: posts the ante 10
+seat2: posts the ante 10
+seat5: posts the ante 10
+seat7_me: posts the ante 10
+seat8 marco: posts the ante 10
+seat9: posts the ante 10
+seat5: posts small blind 40
+seat7_me: posts big blind 80
+*** HOLE CARDS ***
+Dealt to seat7_me [6c Qh]
+seat8 marco: folds 
+seat9: raises 80 to 160
+seat1_1989: folds 
+seat2: folds 
+seat5: calls 120
+seat7_me: folds 
+*** FLOP *** [4h Jd Ac]
+seat5: checks 
+seat9: bets 160
+seat5: raises 160 to 320
+seat9: calls 160
+*** TURN *** [4h Jd Ac] [Jc]
+seat5: bets 240
+seat9: raises 240 to 480
+seat5: calls 240
+*** RIVER *** [4h Jd Ac Jc] [6h]
+seat5: bets 417 and is all-in
+seat9: calls 417
+*** SHOW DOWN ***
+seat5: shows [5s As] (two pair, Aces and Jacks)
+seat9: shows [Ad Kc] (two pair, Aces and Jacks - King kicker)
+seat9 collected 2894 from pot
+seat9 wins the $0.67 bounty for eliminating seat5
+seat5 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 2894 | Rake 0 
+Board [4h Jd Ac Jc 6h]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 (button) folded before Flop (didn't bet)
+Seat 5: seat5 (small blind) showed [5s As] and lost with two pair, Aces and Jacks
+Seat 7: seat7_me (big blind) folded before Flop
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 showed [Ad Kc] and won (2894) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #198371578073: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IV (40/80) - 2019/03/21 9:48:30 CUST [2019/03/21 1:48:30 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 1: seat1_1989 (2863 in chips) 
+Seat 2: seat2 (1838 in chips) 
+Seat 7: seat7_me (1856 in chips) 
+Seat 8: seat8 marco (2927 in chips) 
+Seat 9: seat9 (4016 in chips) 
+seat1_1989: posts the ante 10
+seat2: posts the ante 10
+seat7_me: posts the ante 10
+seat8 marco: posts the ante 10
+seat9: posts the ante 10
+seat8 marco: posts small blind 40
+seat9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to seat7_me [Ah Td]
+seat1_1989: folds 
+seat2: folds 
+seat7_me: raises 80 to 160
+seat8 marco: calls 120
+seat9: calls 80
+*** FLOP *** [6c 8s 2d]
+seat8 marco: checks 
+seat9: checks 
+seat7_me: bets 265
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (265) returned to seat7_me
+seat7_me collected 530 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [6c 8s 2d]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 7: seat7_me (button) collected (530)
+Seat 8: seat8 marco (small blind) folded on the Flop
+Seat 9: seat9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198371586675: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IV (40/80) - 2019/03/21 9:49:16 CUST [2019/03/21 1:49:16 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 1: seat1_1989 (2853 in chips) 
+Seat 2: seat2 (1828 in chips) 
+Seat 7: seat7_me (2216 in chips) 
+Seat 8: seat8 marco (2757 in chips) 
+Seat 9: seat9 (3846 in chips) 
+seat1_1989: posts the ante 10
+seat2: posts the ante 10
+seat7_me: posts the ante 10
+seat8 marco: posts the ante 10
+seat9: posts the ante 10
+seat9: posts small blind 40
+seat1_1989: posts big blind 80
+*** HOLE CARDS ***
+Dealt to seat7_me [4d 8c]
+seat2: raises 120 to 200
+seat7_me: folds 
+seat8 marco: folds 
+seat9: calls 160
+seat1_1989: folds 
+*** FLOP *** [Kd 2c Jh]
+seat9: checks 
+seat2: bets 201
+seat9: calls 201
+*** TURN *** [Kd 2c Jh] [4s]
+seat9: checks 
+seat2: checks 
+*** RIVER *** [Kd 2c Jh 4s] [Qc]
+seat9: checks 
+seat2: checks 
+*** SHOW DOWN ***
+seat9: shows [9s Qs] (a pair of Queens)
+seat2: mucks hand 
+seat9 collected 932 from pot
+*** SUMMARY ***
+Total pot 932 | Rake 0 
+Board [Kd 2c Jh 4s Qc]
+Seat 1: seat1_1989 (big blind) folded before Flop
+Seat 2: seat2 mucked [Js Ah]
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) showed [9s Qs] and won (932) with a pair of Queens
+
+
+
+PokerStars Hand #198371597653: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level V (60/120) - 2019/03/21 9:50:14 CUST [2019/03/21 1:50:14 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 1: seat1_1989 (2763 in chips) 
+Seat 2: seat2 (1417 in chips) 
+Seat 7: seat7_me (2206 in chips) 
+Seat 8: seat8 marco (2747 in chips) 
+Seat 9: seat9 (4367 in chips) 
+seat1_1989: posts the ante 15
+seat2: posts the ante 15
+seat7_me: posts the ante 15
+seat8 marco: posts the ante 15
+seat9: posts the ante 15
+seat1_1989: posts small blind 60
+seat2: posts big blind 120
+*** HOLE CARDS ***
+Dealt to seat7_me [4d Td]
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: folds 
+Uncalled bet (60) returned to seat2
+seat2 collected 195 from pot
+seat2: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Seat 1: seat1_1989 (small blind) folded before Flop
+Seat 2: seat2 (big blind) collected (195)
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371599889: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level V (60/120) - 2019/03/21 9:50:25 CUST [2019/03/21 1:50:25 ET]
+Table '2566364429 1' 9-max Seat #1 is the button
+Seat 1: seat1_1989 (2688 in chips) 
+Seat 2: seat2 (1537 in chips) 
+Seat 7: seat7_me (2191 in chips) 
+Seat 8: seat8 marco (2732 in chips) 
+Seat 9: seat9 (4352 in chips) 
+seat1_1989: posts the ante 15
+seat2: posts the ante 15
+seat7_me: posts the ante 15
+seat8 marco: posts the ante 15
+seat9: posts the ante 15
+seat2: posts small blind 60
+seat7_me: posts big blind 120
+*** HOLE CARDS ***
+Dealt to seat7_me [7h Qs]
+seat8 marco: folds 
+seat9: calls 120
+seat1_1989: calls 120
+seat2: calls 60
+seat7_me: checks 
+*** FLOP *** [3d 5s 2d]
+seat2: checks 
+seat7_me: bets 167
+seat9: folds 
+seat1_1989: folds 
+seat2: folds 
+Uncalled bet (167) returned to seat7_me
+seat7_me collected 555 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [3d 5s 2d]
+Seat 1: seat1_1989 (button) folded on the Flop
+Seat 2: seat2 (small blind) folded on the Flop
+Seat 7: seat7_me (big blind) collected (555)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded on the Flop
+
+
+
+PokerStars Hand #198371607333: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level V (60/120) - 2019/03/21 9:51:04 CUST [2019/03/21 1:51:04 ET]
+Table '2566364429 1' 9-max Seat #2 is the button
+Seat 1: seat1_1989 (2553 in chips) 
+Seat 2: seat2 (1402 in chips) 
+Seat 7: seat7_me (2611 in chips) 
+Seat 8: seat8 marco (2717 in chips) 
+Seat 9: seat9 (4217 in chips) 
+seat1_1989: posts the ante 15
+seat2: posts the ante 15
+seat7_me: posts the ante 15
+seat8 marco: posts the ante 15
+seat9: posts the ante 15
+seat7_me: posts small blind 60
+seat8 marco: posts big blind 120
+*** HOLE CARDS ***
+Dealt to seat7_me [Tc Ks]
+seat9: folds 
+seat1_1989: folds 
+seat2: folds 
+seat7_me: raises 120 to 240
+seat8 marco: raises 2462 to 2702 and is all-in
+seat7_me: folds 
+Uncalled bet (2462) returned to seat8 marco
+seat8 marco collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 (button) folded before Flop (didn't bet)
+Seat 7: seat7_me (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) collected (555)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371614413: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level V (60/120) - 2019/03/21 9:51:42 CUST [2019/03/21 1:51:42 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 1: seat1_1989 (2538 in chips) 
+Seat 2: seat2 (1387 in chips) 
+Seat 7: seat7_me (2356 in chips) 
+Seat 8: seat8 marco (3017 in chips) 
+Seat 9: seat9 (4202 in chips) 
+seat1_1989: posts the ante 15
+seat2: posts the ante 15
+seat7_me: posts the ante 15
+seat8 marco: posts the ante 15
+seat9: posts the ante 15
+seat8 marco: posts small blind 60
+seat9: posts big blind 120
+*** HOLE CARDS ***
+Dealt to seat7_me [Kd Qh]
+seat1_1989: folds 
+seat2: folds 
+seat7_me: raises 120 to 240
+seat8 marco: folds 
+seat9: calls 120
+*** FLOP *** [3c 7d Ts]
+seat9: checks 
+seat7_me: bets 308
+seat9: folds 
+Uncalled bet (308) returned to seat7_me
+seat7_me collected 615 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [3c 7d Ts]
+Seat 1: seat1_1989 folded before Flop (didn't bet)
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 7: seat7_me (button) collected (615)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #198371620947: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level V (60/120) - 2019/03/21 9:52:18 CUST [2019/03/21 1:52:18 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 1: seat1_1989 (2523 in chips) 
+Seat 2: seat2 (1372 in chips) 
+Seat 7: seat7_me (2716 in chips) 
+Seat 8: seat8 marco (2942 in chips) 
+Seat 9: seat9 (3947 in chips) 
+seat1_1989: posts the ante 15
+seat2: posts the ante 15
+seat7_me: posts the ante 15
+seat8 marco: posts the ante 15
+seat9: posts the ante 15
+seat9: posts small blind 60
+seat1_1989: posts big blind 120
+*** HOLE CARDS ***
+Dealt to seat7_me [3s 5d]
+seat2: folds 
+seat7_me: folds 
+seat8 marco: folds 
+seat9: calls 60
+seat1_1989: checks 
+*** FLOP *** [6s Qc As]
+seat9: bets 120
+seat1_1989: folds 
+Uncalled bet (120) returned to seat9
+seat9 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [6s Qc As]
+Seat 1: seat1_1989 (big blind) folded on the Flop
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) collected (315)
+
+
+
+PokerStars Hand #198371628373: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level V (60/120) - 2019/03/21 9:52:57 CUST [2019/03/21 1:52:57 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 1: seat1_1989 (2388 in chips) 
+Seat 2: seat2 (1357 in chips) 
+Seat 7: seat7_me (2701 in chips) 
+Seat 8: seat8 marco (2927 in chips) 
+Seat 9: seat9 (4127 in chips) 
+seat1_1989: posts the ante 15
+seat2: posts the ante 15
+seat7_me: posts the ante 15
+seat8 marco: posts the ante 15
+seat9: posts the ante 15
+seat1_1989: posts small blind 60
+seat2: posts big blind 120
+*** HOLE CARDS ***
+Dealt to seat7_me [3h 3s]
+seat7_me: calls 120
+seat8 marco: folds 
+seat9: folds 
+seat1_1989: calls 60
+seat2: checks 
+*** FLOP *** [Qh 7c 6c]
+seat1_1989: checks 
+seat2: checks 
+seat7_me: bets 174
+seat1_1989: folds 
+seat2: folds 
+Uncalled bet (174) returned to seat7_me
+seat7_me collected 435 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Board [Qh 7c 6c]
+Seat 1: seat1_1989 (small blind) folded on the Flop
+Seat 2: seat2 (big blind) folded on the Flop
+Seat 7: seat7_me collected (435)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371637537: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level V (60/120) - 2019/03/21 9:53:46 CUST [2019/03/21 1:53:46 ET]
+Table '2566364429 1' 9-max Seat #1 is the button
+Seat 1: seat1_1989 (2253 in chips) 
+Seat 2: seat2 (1222 in chips) 
+Seat 7: seat7_me (3001 in chips) 
+Seat 8: seat8 marco (2912 in chips) 
+Seat 9: seat9 (4112 in chips) 
+seat1_1989: posts the ante 15
+seat2: posts the ante 15
+seat7_me: posts the ante 15
+seat8 marco: posts the ante 15
+seat9: posts the ante 15
+seat2: posts small blind 60
+seat7_me: posts big blind 120
+*** HOLE CARDS ***
+Dealt to seat7_me [3c 6d]
+seat8 marco: raises 480 to 600
+seat9: folds 
+seat1_1989: raises 1638 to 2238 and is all-in
+seat2: folds 
+seat7_me: folds 
+seat8 marco: calls 1638
+*** FLOP *** [3h Ks Js]
+*** TURN *** [3h Ks Js] [Tc]
+*** RIVER *** [3h Ks Js Tc] [7s]
+*** SHOW DOWN ***
+seat8 marco: shows [Kh Jh] (two pair, Kings and Jacks)
+seat1_1989: shows [Ah Kd] (a pair of Kings)
+seat8 marco collected 4731 from pot
+seat8 marco wins the $0.67 bounty for eliminating seat1_1989
+seat1_1989 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 4731 | Rake 0 
+Board [3h Ks Js Tc 7s]
+Seat 1: seat1_1989 (button) showed [Ah Kd] and lost with a pair of Kings
+Seat 2: seat2 (small blind) folded before Flop
+Seat 7: seat7_me (big blind) folded before Flop
+Seat 8: seat8 marco showed [Kh Jh] and won (4731) with two pair, Kings and Jacks
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371645110: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:54:27 CUST [2019/03/21 1:54:27 ET]
+Table '2566364429 1' 9-max Seat #2 is the button
+Seat 2: seat2 (1147 in chips) 
+Seat 7: seat7_me (2866 in chips) 
+Seat 8: seat8 marco (5390 in chips) 
+Seat 9: seat9 (4097 in chips) 
+seat2: posts the ante 20
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat7_me: posts small blind 80
+seat8 marco: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [Ts 3c]
+seat9: folds 
+seat2: folds 
+seat7_me: folds 
+Uncalled bet (80) returned to seat8 marco
+seat8 marco collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: seat2 (button) folded before Flop (didn't bet)
+Seat 7: seat7_me (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) collected (240)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371648797: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:54:47 CUST [2019/03/21 1:54:47 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 2: seat2 (1127 in chips) 
+Seat 7: seat7_me (2766 in chips) 
+Seat 8: seat8 marco (5530 in chips) 
+Seat 9: seat9 (4077 in chips) 
+seat2: posts the ante 20
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat8 marco: posts small blind 80
+seat9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [5h 4d]
+seat2: raises 947 to 1107 and is all-in
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (947) returned to seat2
+seat2 collected 480 from pot
+seat2: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 2: seat2 collected (480)
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371652154: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:55:05 CUST [2019/03/21 1:55:05 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 2: seat2 (1427 in chips) 
+Seat 7: seat7_me (2746 in chips) 
+Seat 8: seat8 marco (5430 in chips) 
+Seat 9: seat9 (3897 in chips) 
+seat2: posts the ante 20
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat9: posts small blind 80
+seat2: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [2d Qs]
+seat7_me: folds 
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (80) returned to seat2
+seat2 collected 240 from pot
+seat2: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: seat2 (big blind) collected (240)
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371655303: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:55:23 CUST [2019/03/21 1:55:23 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 2: seat2 (1567 in chips) 
+Seat 7: seat7_me (2726 in chips) 
+Seat 8: seat8 marco (5410 in chips) 
+Seat 9: seat9 (3797 in chips) 
+seat2: posts the ante 20
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat2: posts small blind 80
+seat7_me: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [4d 2s]
+seat8 marco: folds 
+seat9: folds 
+seat2: folds 
+Uncalled bet (80) returned to seat7_me
+seat7_me collected 240 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: seat2 (small blind) folded before Flop
+Seat 7: seat7_me (big blind) collected (240)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371657759: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:55:38 CUST [2019/03/21 1:55:38 ET]
+Table '2566364429 1' 9-max Seat #2 is the button
+Seat 2: seat2 (1467 in chips) 
+Seat 7: seat7_me (2866 in chips) 
+Seat 8: seat8 marco (5390 in chips) 
+Seat 9: seat9 (3777 in chips) 
+seat2: posts the ante 20
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat7_me: posts small blind 80
+seat8 marco: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [Jc 3h]
+seat9: folds 
+seat2: folds 
+seat7_me: folds 
+Uncalled bet (80) returned to seat8 marco
+seat8 marco collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: seat2 (button) folded before Flop (didn't bet)
+Seat 7: seat7_me (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) collected (240)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371660793: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:55:56 CUST [2019/03/21 1:55:56 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 2: seat2 (1447 in chips) 
+Seat 7: seat7_me (2766 in chips) 
+Seat 8: seat8 marco (5530 in chips) 
+Seat 9: seat9 (3757 in chips) 
+seat2: posts the ante 20
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat8 marco: posts small blind 80
+seat9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [4c 2s]
+seat2: folds 
+seat7_me: folds 
+seat8 marco: folds 
+Uncalled bet (80) returned to seat9
+seat9 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: seat2 folded before Flop (didn't bet)
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) collected (240)
+
+
+
+PokerStars Hand #198371664955: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:56:21 CUST [2019/03/21 1:56:21 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 2: seat2 (1427 in chips) 
+Seat 7: seat7_me (2746 in chips) 
+Seat 8: seat8 marco (5430 in chips) 
+Seat 9: seat9 (3897 in chips) 
+seat2: posts the ante 20
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat9: posts small blind 80
+seat2: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [2s 2h]
+seat7_me: calls 160
+seat8 marco: folds 
+seat9: calls 80
+seat2: raises 1247 to 1407 and is all-in
+seat7_me: calls 1247
+seat9: folds 
+*** FLOP *** [8c Kc 5d]
+*** TURN *** [8c Kc 5d] [3h]
+*** RIVER *** [8c Kc 5d 3h] [5h]
+*** SHOW DOWN ***
+seat2: shows [Ad Qs] (a pair of Fives)
+seat7_me: shows [2s 2h] (two pair, Fives and Deuces)
+seat7_me collected 3054 from pot
+seat7_me wins the $0.67 bounty for eliminating seat2
+seat2 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 3054 | Rake 0 
+Board [8c Kc 5d 3h 5h]
+Seat 2: seat2 (big blind) showed [Ad Qs] and lost with a pair of Fives
+Seat 7: seat7_me showed [2s 2h] and won (3054) with two pair, Fives and Deuces
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371670445: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:56:53 CUST [2019/03/21 1:56:53 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (4373 in chips) 
+Seat 8: seat8 marco (5410 in chips) 
+Seat 9: seat9 (3717 in chips) 
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat7_me: posts small blind 80
+seat8 marco: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [5c 3h]
+seat9: folds 
+seat7_me: raises 160 to 320
+seat8 marco: folds [8h 3d]
+Uncalled bet (160) returned to seat7_me
+seat7_me collected 380 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Seat 7: seat7_me (small blind) collected (380)
+Seat 8: seat8 marco (big blind) folded before Flop
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371674413: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:57:16 CUST [2019/03/21 1:57:16 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (4573 in chips) 
+Seat 8: seat8 marco (5230 in chips) 
+Seat 9: seat9 (3697 in chips) 
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat8 marco: posts small blind 80
+seat9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [Ks 9c]
+seat7_me: raises 160 to 320
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (160) returned to seat7_me
+seat7_me collected 460 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Seat 7: seat7_me (button) collected (460)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371677202: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:57:33 CUST [2019/03/21 1:57:33 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (4853 in chips) 
+Seat 8: seat8 marco (5130 in chips) 
+Seat 9: seat9 (3517 in chips) 
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat9: posts small blind 80
+seat7_me: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [6c 8s]
+seat8 marco: calls 160
+seat9: folds 
+seat7_me: checks 
+*** FLOP *** [4s 2c 7s]
+seat7_me: checks 
+seat8 marco: bets 4950 and is all-in
+seat7_me: folds 
+Uncalled bet (4950) returned to seat8 marco
+seat8 marco collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [4s 2c 7s]
+Seat 7: seat7_me (big blind) folded on the Flop
+Seat 8: seat8 marco (button) collected (460)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371682820: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:58:06 CUST [2019/03/21 1:58:06 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (4673 in chips) 
+Seat 8: seat8 marco (5410 in chips) 
+Seat 9: seat9 (3417 in chips) 
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat7_me: posts small blind 80
+seat8 marco: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [4c 9c]
+seat9: folds 
+seat7_me: raises 160 to 320
+seat8 marco: calls 160
+*** FLOP *** [3h As 7h]
+seat7_me: bets 350
+seat8 marco: folds 
+Uncalled bet (350) returned to seat7_me
+seat7_me collected 700 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [3h As 7h]
+Seat 7: seat7_me (small blind) collected (700)
+Seat 8: seat8 marco (big blind) folded on the Flop
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371688477: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:58:39 CUST [2019/03/21 1:58:39 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (5033 in chips) 
+Seat 8: seat8 marco (5070 in chips) 
+Seat 9: seat9 (3397 in chips) 
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat8 marco: posts small blind 80
+seat9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [6s Ts]
+seat7_me: raises 160 to 320
+seat8 marco: raises 4730 to 5050 and is all-in
+seat9: folds 
+seat7_me: folds 
+Uncalled bet (4730) returned to seat8 marco
+seat8 marco collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Seat 7: seat7_me (button) folded before Flop
+Seat 8: seat8 marco (small blind) collected (860)
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371691605: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:58:58 CUST [2019/03/21 1:58:58 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (4693 in chips) 
+Seat 8: seat8 marco (5590 in chips) 
+Seat 9: seat9 (3217 in chips) 
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat9: posts small blind 80
+seat7_me: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [2c Js]
+seat8 marco: raises 5410 to 5570 and is all-in
+seat9: folds 
+seat7_me: folds 
+Uncalled bet (5410) returned to seat8 marco
+seat8 marco collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Seat 7: seat7_me (big blind) folded before Flop
+Seat 8: seat8 marco (button) collected (460)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371696025: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VI (80/160) - 2019/03/21 9:59:23 CUST [2019/03/21 1:59:23 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (4513 in chips) 
+Seat 8: seat8 marco (5870 in chips) 
+Seat 9: seat9 (3117 in chips) 
+seat7_me: posts the ante 20
+seat8 marco: posts the ante 20
+seat9: posts the ante 20
+seat7_me: posts small blind 80
+seat8 marco: posts big blind 160
+*** HOLE CARDS ***
+Dealt to seat7_me [6s 2h]
+seat9: folds 
+seat7_me: raises 160 to 320
+seat8 marco: calls 160
+*** FLOP *** [5s 9s Jc]
+seat7_me: bets 350
+seat8 marco: folds 
+Uncalled bet (350) returned to seat7_me
+seat7_me collected 700 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [5s 9s Jc]
+Seat 7: seat7_me (small blind) collected (700)
+Seat 8: seat8 marco (big blind) folded on the Flop
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371702111: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 9:59:59 CUST [2019/03/21 1:59:59 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (4873 in chips) 
+Seat 8: seat8 marco (5530 in chips) 
+Seat 9: seat9 (3097 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 100
+seat9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [Ad 4h]
+seat7_me: raises 200 to 400
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (200) returned to seat7_me
+seat7_me collected 575 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 7: seat7_me (button) collected (575)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371703837: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:00:09 CUST [2019/03/21 2:00:09 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (5223 in chips) 
+Seat 8: seat8 marco (5405 in chips) 
+Seat 9: seat9 (2872 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 100
+seat7_me: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [6s 6c]
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (100) returned to seat7_me
+seat7_me collected 275 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Seat 7: seat7_me (big blind) collected (275)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371705262: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:00:18 CUST [2019/03/21 2:00:18 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (5373 in chips) 
+Seat 8: seat8 marco (5380 in chips) 
+Seat 9: seat9 (2747 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 100
+seat8 marco: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [Qh Ah]
+seat9: folds 
+seat7_me: raises 200 to 400
+seat8 marco: calls 200
+*** FLOP *** [6h 3h Tc]
+seat7_me: bets 438
+seat8 marco: folds 
+Uncalled bet (438) returned to seat7_me
+seat7_me collected 875 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [6h 3h Tc]
+Seat 7: seat7_me (small blind) collected (875)
+Seat 8: seat8 marco (big blind) folded on the Flop
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371709227: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:00:41 CUST [2019/03/21 2:00:41 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (5823 in chips) 
+Seat 8: seat8 marco (4955 in chips) 
+Seat 9: seat9 (2722 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 100
+seat9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [8c 5h]
+seat7_me: folds 
+seat8 marco: raises 400 to 600
+seat9: folds 
+Uncalled bet (400) returned to seat8 marco
+seat8 marco collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) collected (475)
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371711274: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:00:52 CUST [2019/03/21 2:00:52 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (5798 in chips) 
+Seat 8: seat8 marco (5205 in chips) 
+Seat 9: seat9 (2497 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 100
+seat7_me: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [Jh 7s]
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (100) returned to seat7_me
+seat7_me collected 275 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Seat 7: seat7_me (big blind) collected (275)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371713426: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:01:04 CUST [2019/03/21 2:01:04 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (5948 in chips) 
+Seat 8: seat8 marco (5180 in chips) 
+Seat 9: seat9 (2372 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 100
+seat8 marco: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [Th Js]
+seat9: calls 200
+seat7_me: calls 100
+seat8 marco: checks 
+*** FLOP *** [4d 7s 5c]
+seat7_me: checks 
+seat8 marco: checks 
+seat9: checks 
+*** TURN *** [4d 7s 5c] [8h]
+seat7_me: bets 338
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (338) returned to seat7_me
+seat7_me collected 675 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [4d 7s 5c 8h]
+Seat 7: seat7_me (small blind) collected (675)
+Seat 8: seat8 marco (big blind) folded on the Turn
+Seat 9: seat9 (button) folded on the Turn
+
+
+
+PokerStars Hand #198371725028: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:02:08 CUST [2019/03/21 2:02:08 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (6398 in chips) 
+Seat 8: seat8 marco (4955 in chips) 
+Seat 9: seat9 (2147 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 100
+seat9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [Jh 5c]
+seat7_me: folds 
+seat8 marco: raises 600 to 800
+seat9: folds 
+Uncalled bet (600) returned to seat8 marco
+seat8 marco collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) collected (475)
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371728153: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:02:24 CUST [2019/03/21 2:02:24 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (6373 in chips) 
+Seat 8: seat8 marco (5205 in chips) 
+Seat 9: seat9 (1922 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 100
+seat7_me: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [5d 2h]
+seat8 marco: folds 
+seat9: calls 100
+seat7_me: checks 
+*** FLOP *** [2c Jc Ts]
+seat9: bets 200
+seat7_me: calls 200
+*** TURN *** [2c Jc Ts] [9s]
+seat9: bets 200
+seat7_me: calls 200
+*** RIVER *** [2c Jc Ts 9s] [6h]
+seat9: bets 200
+seat7_me: calls 200
+*** SHOW DOWN ***
+seat9: shows [Qc Tc] (a pair of Tens)
+seat7_me: mucks hand 
+seat9 collected 1675 from pot
+*** SUMMARY ***
+Total pot 1675 | Rake 0 
+Board [2c Jc Ts 9s 6h]
+Seat 7: seat7_me (big blind) mucked [5d 2h]
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) showed [Qc Tc] and won (1675) with a pair of Tens
+
+
+
+PokerStars Hand #198371737904: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:03:18 CUST [2019/03/21 2:03:18 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (5548 in chips) 
+Seat 8: seat8 marco (5180 in chips) 
+Seat 9: seat9 (2772 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 100
+seat8 marco: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [Qh 2d]
+seat9: folds 
+seat7_me: raises 200 to 400
+seat8 marco: calls 200
+*** FLOP *** [7d 7s Ks]
+seat7_me: bets 438
+seat8 marco: folds 
+Uncalled bet (438) returned to seat7_me
+seat7_me collected 875 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [7d 7s Ks]
+Seat 7: seat7_me (small blind) collected (875)
+Seat 8: seat8 marco (big blind) folded on the Flop
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371742688: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:03:43 CUST [2019/03/21 2:03:43 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (5998 in chips) 
+Seat 8: seat8 marco (4755 in chips) 
+Seat 9: seat9 (2747 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 100
+seat9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [5d 2h]
+seat7_me: folds 
+seat8 marco: folds 
+Uncalled bet (100) returned to seat9
+seat9 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) collected (275)
+
+
+
+PokerStars Hand #198371744602: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VII (100/200) - 2019/03/21 10:03:54 CUST [2019/03/21 2:03:54 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (5973 in chips) 
+Seat 8: seat8 marco (4630 in chips) 
+Seat 9: seat9 (2897 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 100
+seat7_me: posts big blind 200
+*** HOLE CARDS ***
+Dealt to seat7_me [9s Qd]
+seat8 marco: folds 
+seat9: calls 100
+seat7_me: raises 300 to 500
+seat9: calls 300
+*** FLOP *** [4d 7c 6d]
+seat9: checks 
+seat7_me: bets 430
+seat9: folds 
+Uncalled bet (430) returned to seat7_me
+seat7_me collected 1075 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 1075 | Rake 0 
+Board [4d 7c 6d]
+Seat 7: seat7_me (big blind) collected (1075)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198371753263: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:04:40 CUST [2019/03/21 2:04:40 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (6523 in chips) 
+Seat 8: seat8 marco (4605 in chips) 
+Seat 9: seat9 (2372 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 150
+seat8 marco: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [9s 4c]
+seat9: folds 
+seat7_me: folds 
+Uncalled bet (150) returned to seat8 marco
+seat8 marco collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 7: seat7_me (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) collected (375)
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371755404: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:04:51 CUST [2019/03/21 2:04:51 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (6348 in chips) 
+Seat 8: seat8 marco (4805 in chips) 
+Seat 9: seat9 (2347 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 150
+seat9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [3d 8h]
+seat7_me: folds 
+seat8 marco: folds 
+Uncalled bet (150) returned to seat9
+seat9 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) collected (375)
+
+
+
+PokerStars Hand #198371757159: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:05:00 CUST [2019/03/21 2:05:00 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (6323 in chips) 
+Seat 8: seat8 marco (4630 in chips) 
+Seat 9: seat9 (2547 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 150
+seat7_me: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [2h 9d]
+seat8 marco: folds 
+seat9: calls 150
+seat7_me: checks 
+*** FLOP *** [4d 4c 8c]
+seat9: checks 
+seat7_me: checks 
+*** TURN *** [4d 4c 8c] [Th]
+seat9: checks 
+seat7_me: bets 338
+seat9: calls 338
+*** RIVER *** [4d 4c 8c Th] [Kh]
+seat9: checks 
+seat7_me: checks 
+*** SHOW DOWN ***
+seat9: shows [Ad Jc] (a pair of Fours)
+seat7_me: mucks hand 
+seat9 collected 1351 from pot
+*** SUMMARY ***
+Total pot 1351 | Rake 0 
+Board [4d 4c 8c Th Kh]
+Seat 7: seat7_me (big blind) mucked [2h 9d]
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) showed [Ad Jc] and won (1351) with a pair of Fours
+
+
+
+PokerStars Hand #198371766195: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:05:48 CUST [2019/03/21 2:05:48 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (5660 in chips) 
+Seat 8: seat8 marco (4605 in chips) 
+Seat 9: seat9 (3235 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 150
+seat8 marco: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [Js 8s]
+seat9: folds 
+seat7_me: raises 300 to 600
+seat8 marco: folds [Qd 4h]
+Uncalled bet (300) returned to seat7_me
+seat7_me collected 675 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 7: seat7_me (small blind) collected (675)
+Seat 8: seat8 marco (big blind) folded before Flop
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371770053: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:06:09 CUST [2019/03/21 2:06:09 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (6010 in chips) 
+Seat 8: seat8 marco (4280 in chips) 
+Seat 9: seat9 (3210 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 150
+seat9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [As Kd]
+seat7_me: raises 300 to 600
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (300) returned to seat7_me
+seat7_me collected 825 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 7: seat7_me (button) collected (825)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371773220: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:06:26 CUST [2019/03/21 2:06:26 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (6510 in chips) 
+Seat 8: seat8 marco (4105 in chips) 
+Seat 9: seat9 (2885 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 150
+seat7_me: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [Ts Ad]
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (150) returned to seat7_me
+seat7_me collected 375 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 7: seat7_me (big blind) collected (375)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371775229: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:06:37 CUST [2019/03/21 2:06:37 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (6710 in chips) 
+Seat 8: seat8 marco (4080 in chips) 
+Seat 9: seat9 (2710 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 150
+seat8 marco: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [8c 5d]
+seat9: folds 
+seat7_me: folds 
+Uncalled bet (150) returned to seat8 marco
+seat8 marco collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 7: seat7_me (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) collected (375)
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371777058: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:06:47 CUST [2019/03/21 2:06:47 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (6535 in chips) 
+Seat 8: seat8 marco (4280 in chips) 
+Seat 9: seat9 (2685 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 150
+seat9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [6s 7c]
+seat7_me: folds 
+seat8 marco: folds 
+Uncalled bet (150) returned to seat9
+seat9 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 7: seat7_me (button) folded before Flop (didn't bet)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) collected (375)
+
+
+
+PokerStars Hand #198371780075: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:07:03 CUST [2019/03/21 2:07:03 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (6510 in chips) 
+Seat 8: seat8 marco (4105 in chips) 
+Seat 9: seat9 (2885 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 150
+seat7_me: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [6h 8s]
+seat8 marco: raises 825 to 1125
+seat9: folds 
+seat7_me: folds 
+Uncalled bet (825) returned to seat8 marco
+seat8 marco collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 7: seat7_me (big blind) folded before Flop
+Seat 8: seat8 marco (button) collected (825)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371782530: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:07:16 CUST [2019/03/21 2:07:16 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (6185 in chips) 
+Seat 8: seat8 marco (4605 in chips) 
+Seat 9: seat9 (2710 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 150
+seat8 marco: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [Tc 5s]
+seat9: folds 
+seat7_me: raises 300 to 600
+seat8 marco: raises 3980 to 4580 and is all-in
+seat7_me: folds 
+Uncalled bet (3980) returned to seat8 marco
+seat8 marco collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Seat 7: seat7_me (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) collected (1275)
+Seat 9: seat9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #198371785344: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:07:31 CUST [2019/03/21 2:07:31 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (5560 in chips) 
+Seat 8: seat8 marco (5255 in chips) 
+Seat 9: seat9 (2685 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat8 marco: posts small blind 150
+seat9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [8d 7d]
+seat7_me: raises 300 to 600
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (300) returned to seat7_me
+seat7_me collected 825 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 7: seat7_me (button) collected (825)
+Seat 8: seat8 marco (small blind) folded before Flop
+Seat 9: seat9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #198371787311: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:07:42 CUST [2019/03/21 2:07:42 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (6060 in chips) 
+Seat 8: seat8 marco (5080 in chips) 
+Seat 9: seat9 (2360 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat9: posts small blind 150
+seat7_me: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [5h 8d]
+seat8 marco: folds 
+seat9: folds 
+Uncalled bet (150) returned to seat7_me
+seat7_me collected 375 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 7: seat7_me (big blind) collected (375)
+Seat 8: seat8 marco (button) folded before Flop (didn't bet)
+Seat 9: seat9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371789388: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:07:53 CUST [2019/03/21 2:07:53 ET]
+Table '2566364429 1' 9-max Seat #9 is the button
+Seat 7: seat7_me (6260 in chips) 
+Seat 8: seat8 marco (5055 in chips) 
+Seat 9: seat9 (2185 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat9: posts the ante 25
+seat7_me: posts small blind 150
+seat8 marco: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [As Th]
+seat9: calls 300
+seat7_me: raises 525 to 825
+seat8 marco: folds 
+seat9: raises 1335 to 2160 and is all-in
+seat7_me: calls 1335
+*** FLOP *** [Td 9h 7s]
+*** TURN *** [Td 9h 7s] [6d]
+*** RIVER *** [Td 9h 7s 6d] [3c]
+*** SHOW DOWN ***
+seat7_me: shows [As Th] (a pair of Tens)
+seat9: shows [9d Qd] (a pair of Nines)
+seat7_me collected 4695 from pot
+seat7_me wins the $0.67 bounty for eliminating seat9
+seat9 finished the tournament in 3rd place and received $3.61.
+*** SUMMARY ***
+Total pot 4695 | Rake 0 
+Board [Td 9h 7s 6d 3c]
+Seat 7: seat7_me (small blind) showed [As Th] and won (4695) with a pair of Tens
+Seat 8: seat8 marco (big blind) folded before Flop
+Seat 9: seat9 (button) showed [9d Qd] and lost with a pair of Nines
+
+
+
+PokerStars Hand #198371797132: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:08:35 CUST [2019/03/21 2:08:35 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (8770 in chips) 
+Seat 8: seat8 marco (4730 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat8 marco: posts small blind 150
+seat7_me: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [Ac Qs]
+seat8 marco: folds 
+Uncalled bet (150) returned to seat7_me
+seat7_me collected 350 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: seat7_me (big blind) collected (350)
+Seat 8: seat8 marco (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #198371798747: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:08:43 CUST [2019/03/21 2:08:43 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (8945 in chips) 
+Seat 8: seat8 marco (4555 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat7_me: posts small blind 150
+seat8 marco: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [4c 7s]
+seat7_me: folds 
+Uncalled bet (150) returned to seat8 marco
+seat8 marco collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: seat7_me (button) (small blind) folded before Flop
+Seat 8: seat8 marco (big blind) collected (350)
+
+
+
+PokerStars Hand #198371800037: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:08:51 CUST [2019/03/21 2:08:51 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (8770 in chips) 
+Seat 8: seat8 marco (4730 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat8 marco: posts small blind 150
+seat7_me: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [6d Jc]
+seat8 marco: raises 300 to 600
+seat7_me: calls 300
+*** FLOP *** [2d 2s 8c]
+seat7_me: bets 625
+seat8 marco: folds 
+Uncalled bet (625) returned to seat7_me
+seat7_me collected 1250 from pot
+seat7_me: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [2d 2s 8c]
+Seat 7: seat7_me (big blind) collected (1250)
+Seat 8: seat8 marco (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #198371805465: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level VIII (150/300) - 2019/03/21 10:09:20 CUST [2019/03/21 2:09:20 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (9395 in chips) 
+Seat 8: seat8 marco (4105 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat7_me: posts small blind 150
+seat8 marco: posts big blind 300
+*** HOLE CARDS ***
+Dealt to seat7_me [Qs 7c]
+seat7_me: raises 300 to 600
+seat8 marco: calls 300
+*** FLOP *** [Ad 7d Ac]
+seat8 marco: checks 
+seat7_me: bets 625
+seat8 marco: calls 625
+*** TURN *** [Ad 7d Ac] [Qc]
+seat8 marco: checks 
+seat7_me: bets 1250
+seat8 marco: calls 1250
+*** RIVER *** [Ad 7d Ac Qc] [4d]
+seat8 marco: checks 
+seat7_me: checks 
+*** SHOW DOWN ***
+seat8 marco: shows [2d Td] (a flush, Ace high)
+seat7_me: mucks hand 
+seat8 marco collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | Rake 0 
+Board [Ad 7d Ac Qc 4d]
+Seat 7: seat7_me (button) (small blind) mucked [Qs 7c]
+Seat 8: seat8 marco (big blind) showed [2d Td] and won (5000) with a flush, Ace high
+
+
+
+PokerStars Hand #198371810798: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IX (200/400) - 2019/03/21 10:09:49 CUST [2019/03/21 2:09:49 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (6895 in chips) 
+Seat 8: seat8 marco (6605 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat8 marco: posts small blind 200
+seat7_me: posts big blind 400
+*** HOLE CARDS ***
+Dealt to seat7_me [Kd 8c]
+seat8 marco: calls 200
+seat7_me: raises 700 to 1100
+seat8 marco: raises 5480 to 6580 and is all-in
+seat7_me: calls 5480
+*** FLOP *** [6s Td Kh]
+*** TURN *** [6s Td Kh] [4c]
+*** RIVER *** [6s Td Kh 4c] [9d]
+*** SHOW DOWN ***
+seat7_me: shows [Kd 8c] (a pair of Kings)
+seat8 marco: shows [4s 4d] (three of a kind, Fours)
+seat8 marco collected 13210 from pot
+*** SUMMARY ***
+Total pot 13210 | Rake 0 
+Board [6s Td Kh 4c 9d]
+Seat 7: seat7_me (big blind) showed [Kd 8c] and lost with a pair of Kings
+Seat 8: seat8 marco (button) (small blind) showed [4s 4d] and won (13210) with three of a kind, Fours
+
+
+
+PokerStars Hand #198371814726: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IX (200/400) - 2019/03/21 10:10:10 CUST [2019/03/21 2:10:10 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (290 in chips) 
+Seat 8: seat8 marco (13210 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat7_me: posts small blind 200
+seat8 marco: posts big blind 400
+*** HOLE CARDS ***
+Dealt to seat7_me [7s Ac]
+seat7_me: calls 65 and is all-in
+Uncalled bet (135) returned to seat8 marco
+*** FLOP *** [4d Td 7c]
+*** TURN *** [4d Td 7c] [8h]
+*** RIVER *** [4d Td 7c 8h] [Qh]
+*** SHOW DOWN ***
+seat8 marco: shows [5d Js] (high card Queen)
+seat7_me: shows [7s Ac] (a pair of Sevens)
+seat7_me collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [4d Td 7c 8h Qh]
+Seat 7: seat7_me (button) (small blind) showed [7s Ac] and won (580) with a pair of Sevens
+Seat 8: seat8 marco (big blind) showed [5d Js] and lost with high card Queen
+
+
+
+PokerStars Hand #198371817179: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IX (200/400) - 2019/03/21 10:10:23 CUST [2019/03/21 2:10:23 ET]
+Table '2566364429 1' 9-max Seat #8 is the button
+Seat 7: seat7_me (580 in chips) 
+Seat 8: seat8 marco (12920 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat8 marco: posts small blind 200
+seat7_me: posts big blind 400
+*** HOLE CARDS ***
+Dealt to seat7_me [5d 5s]
+seat8 marco: calls 200
+seat7_me: raises 155 to 555 and is all-in
+seat8 marco: calls 155
+*** FLOP *** [8h Ah 6h]
+*** TURN *** [8h Ah 6h] [6d]
+*** RIVER *** [8h Ah 6h 6d] [Qs]
+*** SHOW DOWN ***
+seat7_me: shows [5d 5s] (two pair, Sixes and Fives)
+seat8 marco: shows [2c 4c] (a pair of Sixes)
+seat7_me collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [8h Ah 6h 6d Qs]
+Seat 7: seat7_me (big blind) showed [5d 5s] and won (1160) with two pair, Sixes and Fives
+Seat 8: seat8 marco (button) (small blind) showed [2c 4c] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #198371820434: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level IX (200/400) - 2019/03/21 10:10:41 CUST [2019/03/21 2:10:41 ET]
+Table '2566364429 1' 9-max Seat #7 is the button
+Seat 7: seat7_me (1160 in chips) 
+Seat 8: seat8 marco (12340 in chips) 
+seat7_me: posts the ante 25
+seat8 marco: posts the ante 25
+seat7_me: posts small blind 200
+seat8 marco: posts big blind 400
+*** HOLE CARDS ***
+Dealt to seat7_me [Qd 8s]
+seat7_me: raises 735 to 1135 and is all-in
+seat8 marco: calls 735
+*** FLOP *** [7h Kh 4c]
+*** TURN *** [7h Kh 4c] [3h]
+*** RIVER *** [7h Kh 4c 3h] [2d]
+*** SHOW DOWN ***
+seat8 marco: shows [Qc As] (high card Ace)
+seat7_me: shows [Qd 8s] (high card King)
+seat8 marco collected 2320 from pot
+seat8 marco wins the $0.67 bounty for eliminating seat7_me
+seat7_me finished the tournament in 2nd place and received $5.42.
+seat8 marco wins the tournament and receives $9.06 - congratulations!
+*** SUMMARY ***
+Total pot 2320 | Rake 0 
+Board [7h Kh 4c 3h 2d]
+Seat 7: seat7_me (button) (small blind) showed [Qd 8s] and lost with high card King
+Seat 8: seat8 marco (big blind) showed [Qc As] and won (2320) with high card Ace
+
+
+
+PokerStars Hand #198371364689: Tournament #2566364429, $2.01+$0.67+$0.32 USD Hold'em No Limit - Level I (10/20) - 2019/03/21 9:29:22 CUST [2019/03/21 1:29:22 ET]
+Table '2566364429 1' 9-max Seat #1 is the button
+Seat 1: seat1_1989 (1500 in chips)
+Seat 2: seat2 (1500 in chips)
+Seat 3: seat3 98 (1500 in chips)
+Seat 4: seat4+1 (1500 in chips)
+Seat 5: seat5 (1500 in chips)
+Seat 6: seat6 (1500 in chips)
+Seat 7: seat7_me (1500 in chips)
+Seat 8: seat8 marco (1500 in chips)
+Seat 9: seat9 (1500 in chips)
+seat1_1989: posts the ante 3
+seat2: posts the ante 3
+seat3 98: posts the ante 3
+seat4+1: posts the ante 3
+seat5: posts the ante 3
+seat6: posts the ante 3
+seat7_me: posts the ante 3
+seat8 marco: posts the ante 3
+seat9: posts the ante 3
+seat2: posts small blind 10
+seat3 98: posts big blind 20
+*** HOLE CARDS ***
+Dealt to seat7_me [9d 4s]
+seat4+1: calls 20
+seat5: folds
+seat6: calls 20
+seat7_me: folds
+seat8 marco: folds
+seat9: folds
+seat1_1989: calls 20
+seat2: folds
+seat3 98: checks
+*** FLOP *** [Ah Jh 3c]
+seat3 98: checks
+seat4+1: checks
+seat6: checks
+seat1_1989: checks
+*** TURN *** [Ah Jh 3c] [Ad]
+seat3 98: checks
+seat4+1: checks
+seat6: checks
+seat1_1989: checks
+*** RIVER *** [Ah Jh 3c Ad] [2h]
+seat3 98: checks
+seat4+1: checks
+seat6: checks
+seat1_1989: bets 120
+seat3 98: folds
+seat4+1: folds
+seat6: folds
+Uncalled bet (120) returned to seat1_1989
+seat1_1989 collected 117 from pot
+seat1_1989: doesn't show hand
+*** SUMMARY ***
+Total pot 117 | Rake 0
+Board [Ah Jh 3c Ad 2h]
+Seat 1: seat1_1989 (button) collected (117)
+Seat 2: seat2 (small blind) folded before Flop
+Seat 3: seat3 98 (big blind) folded on the River
+Seat 4: seat4+1 folded on the River
+Seat 5: seat5 folded before Flop (didn't bet)
+Seat 6: seat6 folded on the River
+Seat 7: seat7_me folded before Flop (didn't bet)
+Seat 8: seat8 marco folded before Flop (didn't bet)
+Seat 9: seat9 folded before Flop (didn't bet)
+
+
+
