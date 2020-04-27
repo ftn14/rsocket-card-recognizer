@@ -43,5 +43,21 @@ class Tess4jRecognitionServiceImplTest(@Autowired private val tess4jService: Tes
         }
     }
 
-    // TODO:L another cards recognition
+    @Test
+    fun `recognize 5 spades`() {
+        val img = TestUtils.getImgFromResource("/recognition/hand/card/5s.jpg")
+        runBlockingTest {
+            val result = tess4jService.recognizeCard(img)
+            Assert.assertEquals("5s", result)
+        }
+    }
+
+    @Test
+    fun `recognize 10 clubs`() {
+        val img = TestUtils.getImgFromResource("/recognition/hand/card/10c.jpg")
+        runBlockingTest {
+            val result = tess4jService.recognizeCard(img)
+            Assert.assertEquals("10c", result)
+        }
+    }
 }
