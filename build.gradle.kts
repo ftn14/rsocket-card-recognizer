@@ -25,6 +25,8 @@ dependencies {
 //    implementation("io.arrow-kt:arrow-core:0.7.3")
     implementation("io.github.microutils:kotlin-logging:1.7.9")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5")
+    implementation("org.springframework.boot:spring-boot-starter-rsocket")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 //    OCR start
     implementation("net.sourceforge.tess4j:tess4j:4.3.1") // update to last 4.5.1 be unsuccessful
     implementation("net.java.dev.jna:jna:5.2.0")
