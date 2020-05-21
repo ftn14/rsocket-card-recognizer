@@ -6,6 +6,8 @@ import net.sourceforge.tess4j.util.LoadLibs
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.messaging.rsocket.RSocketRequester
+import org.springframework.messaging.rsocket.RSocketStrategies
+
 @Configuration
 class Configuration {
 
@@ -18,5 +20,9 @@ class Configuration {
     }
 
     @Bean
-    fun rSocketRequester(builder: RSocketRequester.Builder): RSocketRequester = builder.connectTcp("localhost", 4114).block() ?: throw RuntimeException("Error while creating RSocket request")
+    fun rSocketRequester(builder: RSocketRequester.Builder, rsocketStrategies: RSocketStrategies): RSocketRequester = builder
+        .rsocketStrategies(rsocketStrategies)
+        .connectTcp("localhost", 4114)
+        .block() ?: throw RuntimeException("Error while creating RSocket request")
+
 }

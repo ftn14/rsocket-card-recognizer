@@ -13,6 +13,7 @@ import org.springframework.test.context.ActiveProfiles
 @TestConfiguration
 @ActiveProfiles("test")
 @SpringBootTest
+//TODO FIX TESTS CONCURRENT EXEC
 class Tess4jRecognitionServiceImplTest(@Autowired private val tess4jService: Tess4jRecognitionServiceImpl) {
 
     @SuppressWarnings
