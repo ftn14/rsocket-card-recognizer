@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.ftx.h1.inside: DEBUG
