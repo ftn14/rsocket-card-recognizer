@@ -13,6 +13,8 @@ repositories {
     //jcenter()
 }
 
+val kotlinCoroutinesVersion = "1.3.7"
+
 dependencies {
     implementation(
         fileTree("libs")
@@ -20,11 +22,11 @@ dependencies {
     )
     implementation(kotlin("stdlib-jdk8"))
     implementation(kotlin("reflect"))
-    implementation("org.springframework.boot:spring-boot-starter-webflux")
+//    implementation("org.springframework.boot:spring-boot-starter-webflux")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 //    implementation("io.arrow-kt:arrow-core:0.7.3")
     implementation("io.github.microutils:kotlin-logging:1.7.9")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$kotlinCoroutinesVersion")
     implementation("org.springframework.boot:spring-boot-starter-rsocket")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 //    OCR start
@@ -34,7 +36,7 @@ dependencies {
 //    OCR end
     runtimeOnly("org.springframework.boot:spring-boot-devtools")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
-    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.3.4")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:$kotlinCoroutinesVersion")
     testImplementation("io.projectreactor:reactor-test")
 }
 
