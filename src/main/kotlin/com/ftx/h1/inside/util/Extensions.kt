@@ -41,8 +41,8 @@ fun Int.toColor(): Color {
 }
 
 fun Color.toSuit(): Suit = when {
-    red > 100 -> Suit.HEARTS
-    green > 100 -> Suit.CLUBS
-    blue > 100 -> Suit.DIAMONDS
+    red > 150 -> Suit.HEARTS
+    green > 150 -> Suit.CLUBS
+    blue > 150 -> Suit.DIAMONDS
     else -> Suit.SPADES
 }

@@ -7,13 +7,14 @@ import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.boot.test.context.TestConfiguration
+import org.springframework.test.annotation.DirtiesContext
 import org.springframework.test.context.ActiveProfiles
 
 @Suppress("EXPERIMENTAL_API_USAGE")
 @TestConfiguration
 @ActiveProfiles("test")
 @SpringBootTest
-//TODO FIX TESTS CONCURRENT EXEC
+//@DirtiesContext(classMode = DirtiesContext.ClassMode.BEFORE_EACH_TEST_METHOD)
 class Tess4jRecognitionServiceImplTest(@Autowired private val tess4jService: Tess4jRecognitionServiceImpl) {
 
     @SuppressWarnings
@@ -58,7 +59,7 @@ class Tess4jRecognitionServiceImplTest(@Autowired private val tess4jService: Tes
         val img = TestUtils.getImgFromResource("/recognition/hand/card/10c.jpg")
         runBlockingTest {
             val result = tess4jService.recognizeCard(img)
-            Assert.assertEquals("10c", result)
+            Assert.assertEquals("Tc", result)
         }
     }
 }
