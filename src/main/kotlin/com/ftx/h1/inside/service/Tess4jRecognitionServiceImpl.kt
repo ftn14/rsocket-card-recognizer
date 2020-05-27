@@ -15,7 +15,9 @@ class Tess4jRecognitionServiceImpl(private val tesseractInstance: ITesseract) : 
 
     private final val CHIPS_REGEX: Regex = """\d+\.\d+""".toRegex()
 
-    // TODO:L KDOC
+    /**
+     * Recognize stack size from image.
+     */
     override suspend fun recognizeChips(img: BufferedImage): String {
         val chips = tesseractInstance.doOCR(img).split(" ")[0]
         return when (CHIPS_REGEX.containsMatchIn(chips)) {
@@ -24,6 +26,9 @@ class Tess4jRecognitionServiceImpl(private val tesseractInstance: ITesseract) : 
         }
     }
 
+    /**
+     * Recognize card's rank and value from image.
+     */
     override suspend fun recognizeCard(cardImg: BufferedImage): String {
         val cardRankAfterOcr: String = tesseractInstance.doOCR(cardImg)
             .apply { logger.debug { "Recognized card value = $this (${this.length} chars)" } }
