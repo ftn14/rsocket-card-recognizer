@@ -1,3 +1,8 @@
+spring:
+  rsocket.server:
+#    host: localhost
+    port: 4114
+
 logging:
   level:
     com.ftx.h1.inside: DEBUG

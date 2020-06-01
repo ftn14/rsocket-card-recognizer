@@ -9,7 +9,8 @@ import org.springframework.messaging.rsocket.RSocketRequester
 import org.springframework.messaging.rsocket.RSocketStrategies
 
 @Configuration
-class Configuration {
+//@EnableConfigurationProperties
+class Configuration(val rsocketProps: RSocketProperties) {
 
     @Bean
     fun tesseractInstance(): ITesseract {
