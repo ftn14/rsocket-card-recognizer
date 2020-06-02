@@ -28,7 +28,7 @@ class RSocketClientToServerITest(@Autowired private val rSocketClient: RSocketCl
     @BeforeAll
     fun setupOnce(
         @Autowired builder: RSocketRequester.Builder,
-        @Value("\${spring.rsocket.server.port}") port: Int
+        @Value("\${h1.server.port}") port: Int
     ) {
         this.rSocketRequester = builder
             .connectTcp("localhost", port)

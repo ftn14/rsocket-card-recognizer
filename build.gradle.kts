@@ -6,7 +6,14 @@ plugins {
     id("io.spring.dependency-management") version "1.0.8.RELEASE"
     kotlin("jvm") version "1.3.72"
     kotlin("plugin.spring") version "1.3.72"
+//    kotlin("kapt") version "1.3.72"
 }
+
+//apply<org.jetbrains.kotlin.gradle.plugin.KotlinPlatformJvmPlugin>()
+//apply<io.spring.gradle.dependencymanagement.DependencyManagementPlugin>()
+//apply<KtlintPlugin>()
+//apply<org.jetbrains.kotlin.allopen.gradle.SpringGradleSubplugin>()
+//apply<org.jetbrains.kotlin.gradle.internal.Kapt3GradleSubplugin>()
 
 repositories {
     mavenCentral()
@@ -35,6 +42,7 @@ dependencies {
     implementation("net.java.dev.jna:jna-platform:5.2.0")
 //    OCR end
     runtimeOnly("org.springframework.boot:spring-boot-devtools")
+//    kapt("org.springframework.boot:spring-boot-configuration-processor:2.2.5.RELEASE")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:$kotlinCoroutinesVersion")
     testImplementation("io.projectreactor:reactor-test")

@@ -1,7 +1,6 @@
-spring:
-  rsocket.server:
-#    host: localhost
-    port: 4114
+h1.server:
+  host: localhost
+  port: 4114
 
 logging:
   level:
