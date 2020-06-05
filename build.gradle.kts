@@ -1,12 +1,13 @@
-group = "org.example"
-version = "1.0-SNAPSHOT"
+group = "com.ftx.h1"
+version = Versions.PROJECT
 
 plugins {
-    id("org.springframework.boot") version "2.2.5.RELEASE"
+    `kotlin-dsl`
+    id("org.springframework.boot") version Versions.SPRING_BOOT
     id("io.spring.dependency-management") version "1.0.8.RELEASE"
-    kotlin("jvm") version "1.3.72"
-    kotlin("plugin.spring") version "1.3.72"
-//    kotlin("kapt") version "1.3.72"
+    kotlin("jvm") version Versions.KOTLIN
+    kotlin("plugin.spring") version Versions.KOTLIN
+//    kotlin("kapt") version Versions.KOTLIN
 }
 
 //apply<org.jetbrains.kotlin.gradle.plugin.KotlinPlatformJvmPlugin>()
@@ -20,8 +21,6 @@ repositories {
     //jcenter()
 }
 
-val kotlinCoroutinesVersion = "1.3.7"
-
 dependencies {
     implementation(
         fileTree("libs")
@@ -33,7 +32,7 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 //    implementation("io.arrow-kt:arrow-core:0.7.3")
     implementation("io.github.microutils:kotlin-logging:1.7.9")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$kotlinCoroutinesVersion")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:${Versions.KOTLIN_COROUTINES}")
     implementation("org.springframework.boot:spring-boot-starter-rsocket")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 //    OCR start
@@ -44,7 +43,7 @@ dependencies {
     runtimeOnly("org.springframework.boot:spring-boot-devtools")
 //    kapt("org.springframework.boot:spring-boot-configuration-processor:2.2.5.RELEASE")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
-    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:$kotlinCoroutinesVersion")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:${Versions.KOTLIN_COROUTINES}")
     testImplementation("io.projectreactor:reactor-test")
 }
 
@@ -59,5 +58,5 @@ tasks {
 
 tasks.withType<Test> {
     useJUnitPlatform()
-    systemProperty("spring.profiles.active", "integration-testing")
+    systemProperty("spring.profiles.active", "integration-testing") //TODO: required?
 }
